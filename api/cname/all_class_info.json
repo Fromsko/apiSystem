@@ -1,0 +1,383 @@
+{
+    "2020": {
+        "学前教育3班": {
+            "people_num": "35",
+            "data": "data",
+            "source_name": "2020级学前教育3班(35)"
+        },
+        "学前教育4班": {
+            "people_num": "38",
+            "data": "data",
+            "source_name": "2020级学前教育4班(38)"
+        },
+        "学前教育5班": {
+            "people_num": "34",
+            "data": "data",
+            "source_name": "2020级学前教育5班(34)"
+        },
+        "数字媒体应用技术1班": {
+            "people_num": "36",
+            "data": "data",
+            "source_name": "2020级数字媒体应用技术1班(36)"
+        },
+        "美术教育1班": {
+            "people_num": "39",
+            "data": "data",
+            "source_name": "2020级美术教育1班(39)"
+        },
+        "舞蹈教育1班": {
+            "people_num": "36",
+            "data": "data",
+            "source_name": "2020级舞蹈教育1班(36)"
+        }
+    },
+    "2021": {
+        "早期教育1班": {
+            "people_num": "43",
+            "data": "data",
+            "source_name": "2021级早期教育1班(43)"
+        },
+        "学前教育1班": {
+            "people_num": "40",
+            "data": "data",
+            "source_name": "2021级学前教育1班(40)"
+        },
+        "学前教育2班": {
+            "people_num": "42",
+            "data": "data",
+            "source_name": "2021级学前教育2班(42)"
+        },
+        "学前教育3班": {
+            "people_num": "43",
+            "data": "data",
+            "source_name": "2021级学前教育3班(43)"
+        },
+        "学前教育4班": {
+            "people_num": "40",
+            "data": "data",
+            "source_name": "2021级学前教育4班(40)"
+        },
+        "学前教育5班": {
+            "people_num": "44",
+            "data": "data",
+            "source_name": "2021级学前教育5班(44)"
+        },
+        "学前教育6班": {
+            "people_num": "40",
+            "data": "data",
+            "source_name": "2021级学前教育6班(40)"
+        },
+        "学前教育7班": {
+            "people_num": "45",
+            "data": "data",
+            "source_name": "2021级学前教育7班(45)"
+        },
+        "学前教育8班": {
+            "people_num": "42",
+            "data": "data",
+            "source_name": "2021级学前教育8班(42)"
+        },
+        "学前教育9班": {
+            "people_num": "45",
+            "data": "data",
+            "source_name": "2021级学前教育9班(45)"
+        },
+        "学前教育10班": {
+            "people_num": "43",
+            "data": "data",
+            "source_name": "2021级学前教育10班(43)"
+        },
+        "学前教育11班": {
+            "people_num": "43",
+            "data": "data",
+            "source_name": "2021级学前教育11班(43)"
+        },
+        "学前教育12班": {
+            "people_num": "42",
+            "data": "data",
+            "source_name": "2021级学前教育12班(42)"
+        },
+        "学前教育13班": {
+            "people_num": "44",
+            "data": "data",
+            "source_name": "2021级学前教育13班(44)"
+        },
+        "软件技术1班": {
+            "people_num": "37",
+            "data": "data",
+            "source_name": "2021级软件技术1班(37)"
+        },
+        "数字媒体应用技术1班": {
+            "people_num": "41",
+            "data": "data",
+            "source_name": "2021级数字媒体应用技术1班(41)"
+        },
+        "数字媒体应用技术2班": {
+            "people_num": "41",
+            "data": "data",
+            "source_name": "2021级数字媒体应用技术2班(41)"
+        },
+        "云计算1班": {
+            "people_num": "41",
+            "data": "data",
+            "source_name": "2021级云计算1班(41)"
+        },
+        "视觉传达1班": {
+            "people_num": "39",
+            "data": "data",
+            "source_name": "2021级视觉传达1班(39)"
+        },
+        "舞蹈表演1班": {
+            "people_num": "40",
+            "data": "data",
+            "source_name": "2021级舞蹈表演1班(40)"
+        },
+        "美术教育1班": {
+            "people_num": "45",
+            "data": "data",
+            "source_name": "2021级美术教育1班(45)"
+        },
+        "舞蹈教育1班": {
+            "people_num": "44",
+            "data": "data",
+            "source_name": "2021级舞蹈教育1班(44)"
+        }
+    },
+    "2022": {
+        "婴幼儿托育与服务1班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级婴幼儿托育与服务1班(50)"
+        },
+        "婴幼儿托育与服务2班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级婴幼儿托育与服务2班(50)"
+        },
+        "早期教育1班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级早期教育1班(50)"
+        },
+        "早期教育2班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级早期教育2班(50)"
+        },
+        "学前教育1班": {
+            "people_num": "32",
+            "data": "data",
+            "source_name": "2022级学前教育1班(32)"
+        },
+        "学前教育2班": {
+            "people_num": "49",
+            "data": "data",
+            "source_name": "2022级学前教育2班(49)"
+        },
+        "学前教育3班": {
+            "people_num": "49",
+            "data": "data",
+            "source_name": "2022级学前教育3班(49)"
+        },
+        "学前教育4班": {
+            "people_num": "48",
+            "data": "data",
+            "source_name": "2022级学前教育4班(48)"
+        },
+        "学前教育5班": {
+            "people_num": "48",
+            "data": "data",
+            "source_name": "2022级学前教育5班(48)"
+        },
+        "学前教育6班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级学前教育6班(52)"
+        },
+        "学前教育7班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级学前教育7班(52)"
+        },
+        "学前教育8班": {
+            "people_num": "53",
+            "data": "data",
+            "source_name": "2022级学前教育8班(53)"
+        },
+        "学前教育9班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级学前教育9班(52)"
+        },
+        "学前教育10班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级学前教育10班(52)"
+        },
+        "学前教育11班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级学前教育11班(52)"
+        },
+        "学前教育12班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级学前教育12班(52)"
+        },
+        "学前教育13班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级学前教育13班(52)"
+        },
+        "学前教育14班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级学前教育14班(52)"
+        },
+        "学前教育15班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级学前教育15班(52)"
+        },
+        "学前教育16班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级学前教育16班(52)"
+        },
+        "学前教育17班": {
+            "people_num": "53",
+            "data": "data",
+            "source_name": "2022级学前教育17班(53)"
+        },
+        "体育教育1班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级体育教育1班(50)"
+        },
+        "软件技术1班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级软件技术1班(50)"
+        },
+        "软件技术2班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级软件技术2班(50)"
+        },
+        "软件技术3班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级软件技术3班(50)"
+        },
+        "数字媒体技术1班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级数字媒体技术1班(50)"
+        },
+        "数字媒体技术2班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级数字媒体技术2班(50)"
+        },
+        "数字媒体技术3班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级数字媒体技术3班(52)"
+        },
+        "数字媒体技术4班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级数字媒体技术4班(52)"
+        },
+        "数字媒体技术（五年制）1班": {
+            "people_num": "40",
+            "data": "data",
+            "source_name": "2022级数字媒体技术（五年制）1班(40)"
+        },
+        "数字媒体技术（五年制）2班": {
+            "people_num": "39",
+            "data": "data",
+            "source_name": "2022级数字媒体技术（五年制）2班(39)"
+        },
+        "云计算1班": {
+            "people_num": "51",
+            "data": "data",
+            "source_name": "2022级云计算1班(51)"
+        },
+        "云计算2班": {
+            "people_num": "52",
+            "data": "data",
+            "source_name": "2022级云计算2班(52)"
+        },
+        "电子商务1班": {
+            "people_num": "48",
+            "data": "data",
+            "source_name": "2022级电子商务1班(48)"
+        },
+        "电子商务2班": {
+            "people_num": "48",
+            "data": "data",
+            "source_name": "2022级电子商务2班(48)"
+        },
+        "电子商务3班": {
+            "people_num": "47",
+            "data": "data",
+            "source_name": "2022级电子商务3班(47)"
+        },
+        "现代教育技术1班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级现代教育技术1班(50)"
+        },
+        "视觉传达1班": {
+            "people_num": "71",
+            "data": "data",
+            "source_name": "2022级视觉传达1班(71)"
+        },
+        "视觉传达2班": {
+            "people_num": "71",
+            "data": "data",
+            "source_name": "2022级视觉传达2班(71)"
+        },
+        "动漫设计1班": {
+            "people_num": "44",
+            "data": "data",
+            "source_name": "2022级动漫设计1班(44)"
+        },
+        "动漫设计2班": {
+            "people_num": "41",
+            "data": "data",
+            "source_name": "2022级动漫设计2班(41)"
+        },
+        "舞蹈表演1班": {
+            "people_num": "49",
+            "data": "data",
+            "source_name": "2022级舞蹈表演1班(49)"
+        },
+        "舞蹈表演（五年制）1班": {
+            "people_num": "60",
+            "data": "data",
+            "source_name": "2022级舞蹈表演（五年制）1班(60)"
+        },
+        "美术教育1班": {
+            "people_num": "49",
+            "data": "data",
+            "source_name": "2022级美术教育1班(49)"
+        },
+        "美术教育2班": {
+            "people_num": "49",
+            "data": "data",
+            "source_name": "2022级美术教育2班(49)"
+        },
+        "舞蹈教育1班": {
+            "people_num": "50",
+            "data": "data",
+            "source_name": "2022级舞蹈教育1班(50)"
+        },
+        "舞蹈教育2班": {
+            "people_num": "48",
+            "data": "data",
+            "source_name": "2022级舞蹈教育2班(48)"
+        }
+    }
+}
