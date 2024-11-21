@@ -1,0 +1,173 @@
+{
+  // 编辑器设置
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "Comments",
+        "scope": "comment, punctuation.definition.comment",
+        "settings": {
+          "fontStyle": "", // 注释不采用斜体
+          "foreground": "#6eda7c" // 自定义16进制颜色码
+        }
+      }
+    ]
+  },
+  "editor.emptySelectionClipboard": true,
+  "editor.mouseWheelZoom": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.tabSize": 4,
+  "editor.fontWeight": "100",
+  "editor.fontFamily": "'Fira Code', Consolas",
+  "editor.minimap.enabled": true,
+  "editor.fontSize": 18,
+  "editor.lineNumbers": "on",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.cursorStyle": "line-thin",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.autoClosingBrackets": "beforeWhitespace",
+  "editor.autoClosingQuotes": "beforeWhitespace",
+  "editor.selectionHighlight": true,
+  "editor.cursorBlinking": "phase",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.organizeImports": "always"
+  },
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.guides.bracketPairs": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.snippetSuggestions": "inline",
+  "editor.scrollbar.horizontal": "visible",
+  "editor.colorDecorators": true,
+  "editor.suggest.showColors": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.linkedEditing": true,
+  "editor.suggest.preview": true,
+  "editor.quickSuggestionsDelay": 100,
+  "editor.unicodeHighlight.includeStrings": false,
+  // 代码格式化
+  "javascript.format.semicolons": "remove",
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "prettier.printWidth": 150,
+  // 代码片段
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.includeLanguages": {
+    "javascript": "html",
+    "vue-html": "html",
+    "vue": "html",
+    "wxml": "html"
+  },
+  // 文件配置
+  "files.eol": "\n",
+  "files.encoding": "utf8",
+  "files.autoSave": "afterDelay",
+  "files.saveConflictResolution": "overwriteFileOnDisk",
+  "files.associations": {
+    "*.js": "javascript",
+    "*.json": "jsonc",
+    "*.wxs": "javascript",
+    "*.lua": "lua",
+    "*.html": "html"
+  },
+  // 窗口设置
+  "workbench.iconTheme": "vs-minimal",
+  "workbench.colorTheme": "Solarized Dark",
+  "workbench.startupEditor": "none",
+  "workbench.productIconTheme": "Default",
+  "workbench.editorAssociations": {
+    "*.sbt": "default"
+  },
+  "workbench.editor.enablePreview": false,
+  // 终端设置
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.detectLocale": "on",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  // Git 设置
+  "git.ignoreMissingGitWarning": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.openRepositoryInParentFolders": "never",
+  "git.ignoreLegacyWarning": true,
+  // 受信任设置
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmPasteNative": false,
+  // 插件设置
+  "extensions.autoUpdate": false,
+  "extensions.ignoreRecommendations": false,
+  // code-runner
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.runInTerminal": true,
+  // 语言功能配置
+  "[go.mod]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "always"
+    }
+  },
+  "[python]": {
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      120
+    ],
+    "editor.suggest.filterGraceful": true,
+    "editor.suggest.preview": true,
+    "editor.suggest.showClasses": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "always",
+      "source.fixAll.ts": "always",
+      "source.sortImports": "always",
+      "source.removeUnusedImports": "always",
+      "source.fixAll.eslint": "always"
+    }
+  },
+  "vue.format.script.initialIndent": true,
+  "vue.format.style.initialIndent": true,
+  "vue.server.hybridMode": true,
+  "vue.autoInsert.dotValue": true,
+  "vue.inlayHints.missingProps": true,
+  "vue.inlayHints.inlineHandlerLeading": true,
+  "vue.inlayHints.optionsWrapper": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}

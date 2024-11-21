@@ -1,0 +1,51 @@
+[project]
+name = "apisystem"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Fromsko", email = "99723642+Fromsko@users.noreply.github.com" }
+]
+dependencies = [
+    "fastapi>=0.115.5",
+    "pymysql>=1.1.1",
+    "pydantic>=2.10.0",
+    "loguru>=0.7.2",
+    "flake8>=7.1.1",
+    "aiofiles>=24.1.0",
+    "aiomysql>=0.2.0",
+    "aiosqlite>=0.20.0",
+    "uvicorn>=0.32.1",
+    "fastapi-amis-admin>=0.7.2",
+    "httpx>=0.27.2",
+    "plotly>=5.24.1",
+    "fastapi-user-auth>=0.7.3",
+    "requests>=2.32.3",
+    "pandas>=2.2.3",
+    "pydantic-settings>=2.6.1",
+    "reflex>=0.6.5",
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/apisystem"]
+
+[tool.rye.scripts]
+devserver = { cmd = "uvicorn apiSystem.main:app --host localhost --port 8000 --reload" }
+devserver-alt = ["flask", "run", "--app", "./hello.py", "--debug"]
+devserver-explicit = { cmd = "flask run --app ./hello.py --debug" }
+
+lint = { chain = ["lint:black", "lint:flake8" ] }
+"lint:black" = "black --check src"
+"lint:flake8" = "flake8 src"
